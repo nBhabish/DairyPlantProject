@@ -1,6 +1,6 @@
 # DairyPlantProject
 
-Goal: To put together a dataset for economic analysis
+Goal: To put together a dataset for regression analysis and estimate the inputs that would be needed to operate a dairy processor in Nebraska. Once we are able to estimate some hypothetical scenarios from the dataset, Dr. Thompson and Dr. Dennis will run all of the collected data (not all of the data is in this repo) through IMPLAN and determine the possible economic impacts of opening a dairy processor.
 
 Files on this repo:
 
